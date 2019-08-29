@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Urvi's First CS193 Homework
+
+Favorite things about CS193:
+- The engaging TAs
+- The people I've met there
+- The ridiculous amount of memes and jokes worked into the example content
+- The simplicity of the content (it's being taught in a way that's easy to understand, so far)
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
